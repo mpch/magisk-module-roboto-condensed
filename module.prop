@@ -1,0 +1,7 @@
+id=RobotoCondensedFontModule
+name=Roboto Condensed Font Module
+version=1.0
+versionCode=1
+author=mpch
+description=Use Roboto Condensed Font as default font
+template=1400
