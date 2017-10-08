@@ -8,4 +8,4 @@ Tested in Oneplus 3 Nougat
 
 https://github.com/topjohnwu
 
-Goole for Roboto Font
+Google for Roboto Font
